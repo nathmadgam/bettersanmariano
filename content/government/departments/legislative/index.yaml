@@ -1,0 +1,25 @@
+# legislative Department Pages
+# This file contains all the pages/governments/departments/legislative available under the Department
+#
+layout: grid
+title: 'Sangguniang Bayan of San Mariano'
+description: 'Members of the Sangguniang Bayan (Municipal Council) for the 2025 to 2028 term. Source: Wikipedia.'
+pages:
+  - name: 'Edgar T. Go'
+    description: 'Vice Mayor and Presiding Officer'
+  - name: 'Philip Jimenez'
+    description: 'Councilor'
+  - name: 'Dean Anthony G. Domalanta'
+    description: 'Councilor'
+  - name: 'Jerimar Miranda'
+    description: 'Councilor'
+  - name: 'JC Buguina Sumisim'
+    description: 'Councilor'
+  - name: 'Monico Aggabao'
+    description: 'Councilor'
+  - name: 'Girlie Go Warren'
+    description: 'Councilor'
+  - name: 'Kevin L. Pascual'
+    description: 'Councilor'
+  - name: 'Minette Miranda'
+    description: 'Councilor'
